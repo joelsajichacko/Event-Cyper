@@ -1,4 +1,4 @@
-# Event-portal
+# Event-Cyper
 ### Day 1 (16/05/2021)
 
 **Joel**-Introduction to Programming/Pyhton
