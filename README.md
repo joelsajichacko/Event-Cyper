@@ -11,9 +11,23 @@
 
 1.Django[https://tinkerhub.org/learn/django/#building-web-apps-using-django-]
 
-
 2.Django Youtube tutorials[https://youtube.com/playlist?list=PL-osiE80TeTtoQCKZ03TU5fNfx2UY6U4p]
 
 3.Project Brief(https://www.notion.so/PY3-Event-Portal-for-your-college-f879543457334f8ba70fb529c8945c42)
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------
+
+### Day 2 (17/05/2021)
+
+**Joel**-Python Basics and Django installation
+
+**Fazna**-frontend web design basics
+
+**Tina** - Django installation erroe solving
+
+***Day2 Resources***:-
+
+1.Django Documentation[https://docs.djangoproject.com/en/3.1/topics/install/#installing-official-release]
+
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------
