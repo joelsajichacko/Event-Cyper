@@ -31,3 +31,13 @@
 
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------
+### Day 3 (13/05/2021)
+
+**Joel**- Django basics & installation,git setup in pycharm
+
+**Fazna**-frontend web design basics
+
+**Tina** - Django basics & installation
+
+1.Git setup in pycharm[https://www.youtube.com/watch?v=7sinNdn49Uk]
+
